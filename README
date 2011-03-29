@@ -1,0 +1,7 @@
+Requisiti:
+
+vlc (versione >= 1.1.7)
+curl
+zenity
+rtmpdump
+python-qt4 ( facoltativo, per televideo )
