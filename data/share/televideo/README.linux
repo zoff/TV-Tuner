@@ -1,0 +1,6 @@
+Televideo 0.45 by Klenje <adecorte@gmail.com>
+
+Requisiti: PyQt4 >= 4.5
+
+Basta estrarre i file dall'archivio e lanciare televideo.sh
+Il file televideo.desktop permette di inserire l'applicazione nel menu (il file va in genere in /usr/share/applications/)
