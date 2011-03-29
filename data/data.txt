@@ -1,9 +1,0 @@
-italia1 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_Italia1?e=1300592458&h=c2c3542e4c98bc772c5947a35051a6cf
-canale5 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_Canale5?e=1300592437&h=6485ca96c92c545b0394ef5dc1fc7a41
-ret4 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_Rete4?e=1300592469&h=b0d8636c8c5779038109388931ed9904
-la7 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_CH_la7?e=1300592410&h=97739c8051b12315a404a76e4bfd1121
-ra1 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_Rai1?e=1300592490&h=cc4a3d6e96e9879d9e7cf6692cd81fd8
-ra2 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_Rai2?e=1300592501&h=4058112cd51891e3d75e7f075b399d9a
-ra3 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_Rai3?e=1300592523&h=b067d54ddb7b27a732805ba463bcc56d
-la1 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_TSI1?e=1300592544&h=a0436b11360dfa02bc53e25f2cf7063c
-la2 = rtmpe://zattoo.fc.llnwd.net/zattoo/s_TSI2?e=1300592556&h=3169393c99d89bba8766f398cec85e36
