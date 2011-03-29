@@ -1,0 +1,22 @@
+== televideo (0.45) - 2010/11/07 ==
+	* fixed weird bug when home page was set to 100
+	* fixed backward search if a page is not found
+	* fixed custom button bug
+
+== televideo (0.44) - 2010/04/19 ==
+	* added feature to choose default action when a page is not found
+	* fixed small graphical bug when clicking Stop button
+
+== televideo (0.43) - 2009/07/02 ==
+	* added proxy auto detect
+	* now at least pyqt 4.5 is required
+
+== televideo (0.42) - 2009/07/01 ==
+	* shortcut and button to stop loading
+	* new site on google code
+
+== televideo (0.41) ==
+	* popup option window if a button is not configured
+
+== televideo (0.40) ==
+	* added autorefresh
